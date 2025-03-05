@@ -1,0 +1,12 @@
+{
+  "name": "resume-generator",
+  "version": "1.0.0",
+  "description": "Resume generator from markdown to HTML and PDF",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "marked": "^15.0.7"
+  }
+}
